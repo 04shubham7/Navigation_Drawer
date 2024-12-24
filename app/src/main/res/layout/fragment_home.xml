@@ -57,7 +57,7 @@
                     android:layout_height="100dp"
                     android:layout_gravity="center"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/undraw_education_3vwh" />
+                    android:src="@drawable/undraw_mathematics_hc2c" />
 
                 <TextView
                     android:layout_width="match_parent"
